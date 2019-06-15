@@ -1,8 +1,12 @@
 # basics
-the fundamental for .net core  
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer 
-dotnet add package Microsoft.EntityFrameworkCore.Design
-dotnet restore 
+# the fundamental for .net core  
+	
+# dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+# dotnet add package Microsoft.EntityFrameworkCore.Design
+	
+# dotnet restore 	
+
 --
 adding itemGroup to csproj 
 Microsoft.EntityFrameworkCore.Tools.DotNet
